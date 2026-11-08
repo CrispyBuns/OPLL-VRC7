@@ -3,14 +3,14 @@ LAGRANGE POINT ROM DIAGNOSTIC
 ============================================================
 File: lagrange-black-screen.nes
 Size: 524,304 bytes
-SHA-256: 58a236534ac8d702abff1ed96c09fdf3e77d80fd19946d085ca228ed6360e514
+SHA-256: f1b381f93d763e1b7884356340b60383a47f0bdc455917e487e2382e8d4d6761
 
 --- HEADER ---
-Header: 4E 45 53 1A 20 00 52 50 00 00 00 00 00 00 00 00
+Header: 4E 45 53 1A 20 00 52 58 20 00 70 07 00 00 00 01
 PRG size: 524,288 bytes
 Mapper: 85
-NES 2.0: False
-Submapper: N/A (iNES 1.0)
+NES 2.0: True
+Submapper: 2
 
 --- PATCH REGION COMPARISON ---
 
